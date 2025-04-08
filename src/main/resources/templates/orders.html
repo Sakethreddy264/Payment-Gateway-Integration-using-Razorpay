@@ -109,10 +109,10 @@
       const order = await createOrder();
 
       const options = {
-        "key": "rzp_test_CEqTCIyIzTYBWG", // Replace with your actual Razorpay Key ID
+        "key": "xxxxxxx", // Replace with your actual Razorpay Key ID
         "amount": order.amount,
         "currency": "INR",
-        "name": "Saketh Reddy",
+        "name": "xxxxxx", // Replace with your account name
         "description": "Payment for Order",
         "order_id": order.razorpayOrderId,
         "callback_url": "http://localhost:8080/paymentCallback",
