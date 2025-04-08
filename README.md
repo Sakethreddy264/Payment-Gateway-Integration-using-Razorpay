@@ -24,7 +24,7 @@ Payment API: Razorpay Java SDK
 ⚙️ Setup Instructions
 1. Clone the Repository
 bash
-git clone https://github.com/yourusername/razorpay-springboot-integration.git
+git clone  https://github.com/Sakethreddy264/Payment-Gateway-Integration-using-Razorpay.git
 cd razorpay-springboot-integration
 2. Create MySQL Database
 sql
